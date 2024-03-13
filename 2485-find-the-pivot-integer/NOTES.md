@@ -1,0 +1,2 @@
+Algorithm
+Calculate the total sum of the sequence from 1 to n using the formula ( � ⋅ ( � + 1 ) / 2 ) (n⋅(n+1)/2), which is equivalent to � 2 + � / 2 n 2 +n/2 Calculate the square root of the total sum and store it in pivot. Check if the square of the pivot is equal to the total sum. If the square of the pivot is equal to the total sum, return the pivot as the pivot integer x. If the square of the pivot is not equal to the total sum, return -1.
