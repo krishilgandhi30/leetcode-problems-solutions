@@ -1,6 +1,7 @@
-<h2><a href="https://leetcode.com/problems/movie-rating/">1341. Movie Rating</a></h2><h3>Medium</h3><hr><div class="sql-schema-wrapper__3VBi"><a class="sql-schema-link__3cEg">SQL Schema<svg viewBox="0 0 24 24" width="1em" height="1em" class="icon__1Md2"><path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></a></div><div><p>Table: <code>Movies</code></p>
+<h2><a href="https://leetcode.com/problems/movie-rating">1341. Movie Rating</a></h2><h3>Medium</h3><hr><p>Table: <code>Movies</code></p>
 
-<pre>+---------------+---------+
+<pre>
++---------------+---------+
 | Column Name   | Type    |
 +---------------+---------+
 | movie_id      | int     |
@@ -8,26 +9,25 @@
 +---------------+---------+
 movie_id is the primary key (column with unique values) for this table.
 title is the name of the movie.
-</pre>
-
-<p>&nbsp;</p>
+Each movie has a unique title.</pre>
 
 <p>Table: <code>Users</code></p>
 
-<pre>+---------------+---------+
+<pre>
++---------------+---------+
 | Column Name   | Type    |
 +---------------+---------+
 | user_id       | int     |
 | name          | varchar |
 +---------------+---------+
 user_id is the primary key (column with unique values) for this table.
+The column &#39;name&#39; has unique values.
 </pre>
-
-<p>&nbsp;</p>
 
 <p>Table: <code>MovieRating</code></p>
 
-<pre>+---------------+---------+
+<pre>
++---------------+---------+
 | Column Name   | Type    |
 +---------------+---------+
 | movie_id      | int     |
@@ -35,9 +35,9 @@ user_id is the primary key (column with unique values) for this table.
 | rating        | int     |
 | created_at    | date    |
 +---------------+---------+
-(movie_id, user_id) is the primary key (column with unique values)&nbsp;for this table.
+(movie_id, user_id) is the primary key (column with unique values) for this table.
 This table contains the rating of a movie by a user in their review.
-created_at is the user's review date. 
+created_at is the user&#39;s review date. 
 </pre>
 
 <p>&nbsp;</p>
@@ -54,7 +54,8 @@ created_at is the user's review date.
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> 
+<pre>
+<strong>Input:</strong> 
 Movies table:
 +-------------+--------------+
 | movie_id    |  title       |
@@ -94,7 +95,6 @@ MovieRating table:
 | Frozen 2     |
 +--------------+
 <strong>Explanation:</strong> 
-Daniel and Monica have rated 3 movies ("Avengers", "Frozen 2" and "Joker") but Daniel is smaller lexicographically.
+Daniel and Monica have rated 3 movies (&quot;Avengers&quot;, &quot;Frozen 2&quot; and &quot;Joker&quot;) but Daniel is smaller lexicographically.
 Frozen 2 and Joker have a rating average of 3.5 in February but Frozen 2 is smaller lexicographically.
 </pre>
-</div>
