@@ -1,6 +1,7 @@
-<h2><a href="https://leetcode.com/problems/investments-in-2016/">585. Investments in 2016</a></h2><h3>Medium</h3><hr><div class="sql-schema-wrapper__3VBi"><a class="sql-schema-link__3cEg">SQL Schema<svg viewBox="0 0 24 24" width="1em" height="1em" class="icon__1Md2"><path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></a></div><div><p>Table: <code>Insurance</code></p>
+<h2><a href="https://leetcode.com/problems/investments-in-2016">585. Investments in 2016</a></h2><h3>Medium</h3><hr><p>Table: <code>Insurance</code></p>
 
-<pre>+-------------+-------+
+<pre>
++-------------+-------+
 | Column Name | Type  |
 +-------------+-------+
 | pid         | int   |
@@ -11,10 +12,10 @@
 +-------------+-------+
 pid is the primary key (column with unique values) for this table.
 Each row of this table contains information about one policy where:
-pid is the policyholder's policy ID.
+pid is the policyholder&#39;s policy ID.
 tiv_2015 is the total investment value in 2015 and tiv_2016 is the total investment value in 2016.
-lat is the latitude of the policy holder's city. It's guaranteed that lat is not NULL.
-lon is the longitude of the policy holder's city. It's guaranteed that lon is not NULL.
+lat is the latitude of the policy holder&#39;s city. It&#39;s guaranteed that lat is not NULL.
+lon is the longitude of the policy holder&#39;s city. It&#39;s guaranteed that lon is not NULL.
 </pre>
 
 <p>&nbsp;</p>
@@ -33,7 +34,8 @@ lon is the longitude of the policy holder's city. It's guaranteed that lon is no
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> 
+<pre>
+<strong>Input:</strong> 
 Insurance table:
 +-----+----------+----------+-----+-----+
 | pid | tiv_2015 | tiv_2016 | lat | lon |
@@ -56,4 +58,3 @@ The tiv_2015 value 10 is the same as the third and fourth records, and its locat
 The second record does not meet any of the two criteria. Its tiv_2015 is not like any other policyholders and its location is the same as the third record, which makes the third record fail, too.
 So, the result is the sum of tiv_2016 of the first and last record, which is 45.
 </pre>
-</div>
