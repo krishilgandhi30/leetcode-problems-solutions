@@ -8,6 +8,7 @@
 | [0184-department-highest-salary](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0262-trips-and-users](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/0262-trips-and-users/) | Hard |
 | [0585-investments-in-2016](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/0585-investments-in-2016/) | Medium |
+| [0601-human-traffic-of-stadium](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0608-tree-node](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/0608-tree-node/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
