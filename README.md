@@ -26,4 +26,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 <!---LeetCode Topics End-->
