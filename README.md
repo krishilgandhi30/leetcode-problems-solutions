@@ -35,4 +35,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2485-find-the-pivot-integer](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2485-find-the-pivot-integer](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 <!---LeetCode Topics End-->
