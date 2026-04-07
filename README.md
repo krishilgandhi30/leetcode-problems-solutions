@@ -30,6 +30,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0263-ugly-number](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/0263-ugly-number/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
