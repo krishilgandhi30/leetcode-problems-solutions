@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
