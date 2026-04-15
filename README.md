@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -38,6 +39,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
