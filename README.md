@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Sorting
@@ -52,4 +53,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2485-find-the-pivot-integer](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 <!---LeetCode Topics End-->
