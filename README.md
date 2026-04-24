@@ -41,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -58,4 +59,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 <!---LeetCode Topics End-->
