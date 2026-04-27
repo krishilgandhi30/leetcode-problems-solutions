@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2043-simple-bank-system](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -35,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [2043-simple-bank-system](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## String
@@ -63,4 +65,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2043-simple-bank-system](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2043-simple-bank-system/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2043-simple-bank-system](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2043-simple-bank-system/) | Medium |
 <!---LeetCode Topics End-->
