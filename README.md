@@ -27,11 +27,13 @@
 | [2043-simple-bank-system](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -39,6 +41,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2043-simple-bank-system](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2043-simple-bank-system/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/krishilgandhi30/leetcode-problems-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## String
